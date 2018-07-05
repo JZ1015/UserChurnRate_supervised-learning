@@ -20,3 +20,6 @@ There are seven sections in the project:
  Probablity option for classifiers
 
  loop through 3,4,5,6,7 for better model and better solution
+ 
+ source data attached
+ Please use Jupyter Notebook to open
